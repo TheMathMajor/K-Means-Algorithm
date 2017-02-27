@@ -1,3 +1,6 @@
+
+#this file serves as a test for the K-means Algorithm
+
 import numpy as np
 import matplotlib.pyplot as plt
 import kmeans
